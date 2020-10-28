@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Vue.js
 - 💬 Ask me about Laravel framework 
 - 😁 My hobbies are gaming, cycling and lisening to music
-------
+======
 
 <!--
 **Olafschouten/Olafschouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
