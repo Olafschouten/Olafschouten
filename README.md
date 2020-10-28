@@ -11,7 +11,11 @@
 - Vue.js
 - Silverstripe
 
-<img src="https://en.wikipedia.org/wiki/Laravel#/media/File:Laravel.svg" alt="img text" width="100" height="100">
+<img src="" alt="img text" width="100" height="100">
+
+<svg width="90" height="90">       
+     <image xlink:href="https://en.wikipedia.org/wiki/Laravel#/media/File:Laravel.svg" src="yourfallback.png" width="90" height="90"/>    
+</svg>
 
 <!--
 **Olafschouten/Olafschouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
