@@ -11,7 +11,7 @@
 - Vue.js
 - Silverstripe
 
-<img src="https://icon-icons.com/download/130169/PNG/512/" alt="img text" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_silverstripe_icon_130169.png" alt="img text" width="100" height="100">
 
 <!--
 **Olafschouten/Olafschouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
