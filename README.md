@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Olaf 👋
+
+- 🔭 I’m currently working on a Laravel Jetstream|Inertia in Vue.js
+- 🌱 I’m currently learning Vue.js
+- 💬 Ask me about Laravel framework 
+- 😁 My hobbies are gaming, cycling and lisening to music
+
 
 <!--
 **Olafschouten/Olafschouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
