@@ -5,8 +5,6 @@
 - 💬 Ask me about Laravel framework 
 - 😁 My hobbies are gaming, cycling and lisening to music
 
-======
-
 ## Skills
 - Laravel
 - Vue.js
