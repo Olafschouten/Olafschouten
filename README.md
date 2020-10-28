@@ -11,7 +11,7 @@
 - Vue.js
 - Silverstripe
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" alt="img text" width="100" height="100">
 
 <!--
 **Olafschouten/Olafschouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
