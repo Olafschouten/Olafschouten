@@ -1,4 +1,4 @@
-# H2 Hi there, I'm Olaf 👋
+## Hi there, I'm Olaf 👋
 
 - 🔭 I’m currently working on a Laravel Jetstream|Inertia in Vue.js
 - 🌱 I’m currently learning Vue.js
@@ -7,7 +7,7 @@
 
 ======
 
-# H2 Skills
+## Skills
 - Laravel
 - Vue.js
 - Silverstripe
