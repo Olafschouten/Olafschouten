@@ -7,6 +7,7 @@
 
 ## Skills
 - Laravel
+  Jetstream|Inertia
 - Vue.js
 - Silverstripe
 
