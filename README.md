@@ -1,14 +1,26 @@
 ## Hi there, I'm Olaf 👋
 
-- 🔭  I’m currently working on a Laravel Jetstream|Inertia in Vue.js project
-- 🌱  I’m currently learning Vue.js
-- 💬  Ask me about Laravel framework 
-- 😁  My hobbies are gaming, cycling and lisening to music
+- 🔭 I’m currently working on a Laravel Jetstream|Inertia in Vue.js project
+- 🌱 I’m currently learning Vue.js
+- 💬 Ask me about Laravel and Vue framework
+- 😁 My hobbies are gaming, cycling and lisening to music
+- 📫 Olafschouten99@gmail.com
 
 ## Skills
 - Laravel
 - Vue.js
 - Silverstripe
+
+## Working with
+- Scrum workflow
+
+## Applications
+- PhpStorm
+- PostMan
+- TablePlus
+- Chrome (Vue devtools)
+- Laravel Valet (localhost)
+- Trello
 
 
 <!--
