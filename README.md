@@ -9,6 +9,9 @@
 ## Skills
 - Laravel
 - Vue.js
+  - Vuex
+  - Vue router
+  - Axios
 - Silverstripe
 
 ## Working with
