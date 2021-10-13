@@ -1,7 +1,6 @@
 ## Hi there, I'm Olaf 👋
 
-- 🔭 I’m currently working on a Laravel Jetstream|Inertia in Vue.js project
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working with Laravel and Vue.js project
 - 💬 Ask me about Laravel and Vue framework
 - 😁 My hobbies are gaming, cycling and lisening to music
 - 📫 Olafschouten99@gmail.com
@@ -23,7 +22,7 @@
 - TablePlus
 - Chrome (Vue devtools)
 - Laravel Valet (localhost)
-- Trello
+- Jira
 
 
 <!--
